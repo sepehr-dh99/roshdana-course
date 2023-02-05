@@ -1,3 +1,3 @@
-function logger(x) {
-  console.log(x);
+function logger(value) {
+  console.log(value);
 }
